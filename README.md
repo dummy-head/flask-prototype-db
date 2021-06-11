@@ -100,10 +100,8 @@ Note: This example is for a Post module
 
 The JSON format follows the spec at jsonapi.org and a sample is available in the sample.json   file
 
-###Tutorials
-https://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/?utm_source=gh-flask-scaffold-readme
 
-https://techarena51.com/blog/tag/flask-tutorials/?utm_source=gh-flask-scaffold-readme
+
 
 ###Directory Structure
         Project-Folder
