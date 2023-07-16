@@ -1,10 +1,7 @@
-Flask-Scaffold 2.0 let's you Prototype Database Driven Web Apps (Angular 6, Bootstrap 4) and REST API's  (Flask python framework), 
+Flask-prototype-db let's you Prototype Database Driven Web Apps (Angular 6, Bootstrap 4) and REST API's  (Flask python framework), 
 
 
 
-![](https://i.imgur.com/GeZ9vAB.png)
-![](https://i.imgur.com/XHpxJrM.png)
-![](https://i.imgur.com/RpsXaoe.png)
 
 Features include
 
